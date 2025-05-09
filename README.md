@@ -1,1 +1,1 @@
-string.Concat() metotu ile verilen birleştirilmesine küçük bir örnek
+string.Concat() metotu ile verilerin birleştirilmesine küçük bir örnek
